@@ -1,0 +1,15 @@
+.header-bg, .footer-bg{
+    background-color: #2d3136;
+}
+.wrap{
+    margin:0 auto;
+    width:80%;
+}
+.logo img {
+    width: 200px;
+    padding-top: 30px;
+}
+.footer-logo img{
+    width:100px;
+    padding: 10px 0;
+}
